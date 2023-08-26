@@ -5,6 +5,7 @@ public class AppTest {
         System.out.println("Hello world from main");
         System.out.println("Done");
         System.out.println("Done2");
+        System.out.println("Done3");
     }
 }
 /*
